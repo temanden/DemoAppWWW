@@ -24,7 +24,7 @@ var app = {
 
 app.initialize();
 
-var serviceURL = "http://localhost/GitHub/DemoAppWWW/www/services/";
+var serviceURL = "http://demoapp.saas.mcg.dk/";
 
 var expo;
 
